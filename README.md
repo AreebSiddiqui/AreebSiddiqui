@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there 👋 [![HitCount](http://hits.dwyl.com/AreebSiddiqui/AreebSiddiqui.svg)](http://hits.dwyl.com/AreebSiddiqui/AreebSiddiqui)
 ### 🔭 I’m currently working on startup
 ### 🌱 I’m currently learning advanced Javascript
 ### 💬 Ask me about any thing related to computer science
 ### 📫 How to reach me: www.linkedin.com/in/muhammadareebsiddiqui
-[![HitCount](http://hits.dwyl.com/AreebSiddiqui/AreebSiddiqui.svg)](http://hits.dwyl.com/AreebSiddiqui/AreebSiddiqui)
 
 <!--
 **AreebSiddiqui/AreebSiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
