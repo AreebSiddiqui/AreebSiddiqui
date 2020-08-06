@@ -3,8 +3,6 @@
 ### Hi there 👋 
 ### 🌱 I’m currently learning advanced Javascript
 ### 💬 Ask me about any thing related to computer science
-![Screenshot](LinkedIn.png)
-![Screenshot](twitter.webp)
 
 <!--
 **AreebSiddiqui/AreebSiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
