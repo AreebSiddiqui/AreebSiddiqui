@@ -35,7 +35,9 @@
 <img align="left" width="50px" src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-articleLarge-v4.jpg" ; alt="Twitter">
 </a>
 
-
+<a href="www.linkedin.com/in/muhammadareebsiddiqui" target="_blank">
+<img align="left" width="50px" src="https://image.flaticon.com/icons/png/512/174/174857.png"; alt="LinkedIn">
+</a>
  
  
 <!--
