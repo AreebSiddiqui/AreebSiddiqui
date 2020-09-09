@@ -31,7 +31,7 @@
  
  ## 📫 How to reach me:
  <a href="https://twitter.com/suAreebSiddiqui" target="_blank">
-<img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-articleLarge-v4.jpg" style="width: 26%;" alt="Twitter">
+<img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-articleLarge-v4.jpg" style="width:26%;" alt="Twitter">
 </a>
 
 
