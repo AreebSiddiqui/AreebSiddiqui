@@ -36,7 +36,7 @@
 <img align="left" width="30px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png"; alt="Twitter">
 </a>
 
-<a href="www.linkedin.com/in/muhammadareebsiddiqui">
+<a href="https://linkedin.com/in/muhammadareebsiddiqui">
 <img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"; alt="Linkedin">
 </a>
  
