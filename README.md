@@ -23,6 +23,10 @@
  
  <img align="left" alt="AWS" width="26px" src="https://d13kjxnqnhcmn2.cloudfront.net/AcuCustom/Sitename/DAM/029/AWS.png" /> 
  <img align="left" alt="AWS" width="26px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/docker-logo.png" /> 
+  <img align="left" alt="AWS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVb396AHYUvoXpCIncqUGUgs8-p3o2qHz1qA&usqp=CAU" /> 
+
+ 
+ 
 
  
  
