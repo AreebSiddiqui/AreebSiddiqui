@@ -1,9 +1,9 @@
 
 [![HitCount](http://hits.dwyl.com/AreebSiddiqui/AreebSiddiqui.svg)](http://hits.dwyl.com/AreebSiddiqui/AreebSiddiqui)
 ### Hi there 👋 
-### 🌱 I’m currently learning advanced Javascript
-### 💬 Ask me about any thing related to computer science
-### 🔭 I’m currently working on Mobile Application development and Linux Kernel Module Development.
+### 💬 Ask me about any thing related to computer science.
+### 🔭 I’m currently working on web and mobile app development.
+### ☁️ Preparing for AWS Certifications (AWS Cloud developer and AWS Cloud Practitioner ).
 
 #### Languages & Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
