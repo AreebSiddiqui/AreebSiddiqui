@@ -33,7 +33,7 @@
 
 #### 📫 How to reach me:
 <a href="https://twitter.com/suAreebSiddiqui" target="_blank">
-<img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png"; alt="Twitter">
+<img align="left" width="28px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png"; alt="Twitter">
 </a>
 
 <a href="www.linkedin.com/in/muhammadareebsiddiqui" target="_blank">
