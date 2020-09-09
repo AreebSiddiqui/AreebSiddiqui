@@ -37,7 +37,7 @@
 </a>
 
 <a href="www.linkedin.com/in/muhammadareebsiddiqui" target="_blank">
-<img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"; alt="LinkedIn">
+<img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"; alt="Linkedin">
 </a>
  
  
