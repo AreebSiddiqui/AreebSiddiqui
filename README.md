@@ -29,9 +29,9 @@
  
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
  
- ## 📫 How to reach me:
+ ### 📫 How to reach me:
  <a href="https://twitter.com/suAreebSiddiqui" target="_blank">
-<img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-articleLarge-v4.jpg" style="width:26%;" alt="Twitter">
+<img align="left" width:"26px" src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-articleLarge-v4.jpg" ; alt="Twitter">
 </a>
 
 
