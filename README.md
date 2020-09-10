@@ -31,7 +31,7 @@
 
 <br>
 
-#### 📫 How to reach me:
+#### How to reach me:
 <a href="https://twitter.com/suAreebSiddiqui" target="_blank">
 <img align="left" width="30px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png"; alt="Twitter">
 </a>
