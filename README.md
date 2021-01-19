@@ -41,7 +41,7 @@
 
 
  
-<a href=" https://www.upwork.com/o/profiles/users/~01ac31452463f50f6c/">
+<a href="https://www.upwork.com/o/profiles/users/~01ac31452463f50f6c/">
 <img align="left" width="26px" src=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/1200px-Upwork-logo.svg.png"; alt="Upwork">
 </a>
 
