@@ -38,8 +38,12 @@
 <a href="https://linkedin.com/in/muhammadareebsiddiqui">
 <img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"; alt="Linkedin">
 </a>
+
+
  
- 
+<a href=" https://www.upwork.com/o/profiles/users/~01ac31452463f50f6c/">
+<img align="left" width="26px" src=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/1200px-Upwork-logo.svg.png"; alt="Upwork">
+</a
 <!--
 **AreebSiddiqui/AreebSiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
