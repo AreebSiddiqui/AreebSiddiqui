@@ -2,7 +2,7 @@
 [![HitCount](http://hits.dwyl.com/AreebSiddiqui/AreebSiddiqui.svg)](http://hits.dwyl.com/AreebSiddiqui/AreebSiddiqui)
 ### Hi there 👋 
 ### 💬 Ask me about any thing related to computer science.
-### 🔭 I’m currently working on web and mobile app development.
+### 🚀 The tech stack I use NodeJS, Rust and AWS.
 
 #### Languages & Tools
  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
