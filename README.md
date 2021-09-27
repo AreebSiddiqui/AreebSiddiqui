@@ -1,5 +1,4 @@
 
-[![HitCount](http://hits.dwyl.com/AreebSiddiqui/AreebSiddiqui.svg)](http://hits.dwyl.com/AreebSiddiqui/AreebSiddiqui)
 ### Hi there 👋 
 ### 💬 Ask me about any thing related to computer science.
 ### 🚀 The tech stack I use NodeJS, Rust and AWS.
