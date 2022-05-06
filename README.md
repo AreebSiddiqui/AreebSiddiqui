@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://linkedin.com/in/suareebsiddiqui">
-<img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"; alt="Linkedin">
+<img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"; alt="Linkedin">
 </a>
 
 
